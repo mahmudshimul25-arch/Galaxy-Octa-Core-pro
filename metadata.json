@@ -1,0 +1,8 @@
+{
+  "name": "Galaxy Octa Core Pro",
+  "description": "Professional Trading Intelligence Bot for analyzing charts and generating signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
